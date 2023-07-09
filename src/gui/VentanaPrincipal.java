@@ -78,12 +78,12 @@ public class VentanaPrincipal extends JFrame {
 		
 		JLabel saludo = new JLabel("Bienvenido Cambie algo aca");
 		saludo.setForeground(Color.WHITE);
-		saludo.setBounds(29, 25, 223, 23);
+		saludo.setBounds(29, 25, 577, 23);
 		saludo.setFont(new Font("SansSerif", Font.BOLD, 20));
 		
 		JLabel bdActual = new JLabel("Base de datos: ");
 		bdActual.setForeground(Color.WHITE);
-		bdActual.setBounds(616, 26, 223, 23);
+		bdActual.setBounds(616, 26, 370, 23);
 		bdActual.setFont(new Font("SansSerif", Font.PLAIN, 18));
 		
 		JSeparator separator = new JSeparator();
