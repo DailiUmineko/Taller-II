@@ -76,7 +76,7 @@ public class VentanaPrincipal extends JFrame {
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		setContentPane(contentPane);
 		
-		JLabel saludo = new JLabel("Bienvenido, Mauri lo ves? ");
+		JLabel saludo = new JLabel("Bienvenido, Prueba edicion ");
 		saludo.setForeground(Color.WHITE);
 		saludo.setBounds(29, 25, 577, 23);
 		saludo.setFont(new Font("SansSerif", Font.BOLD, 20));
